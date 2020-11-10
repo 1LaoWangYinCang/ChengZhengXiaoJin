@@ -1,9 +1,15 @@
-# TiYuJiSuZhan
-TiYuJiSuZhan is a shopping mall for purchasing ball sports goods. We launch a variety of professional ball sports equipment for users to choose and buy, including: football, basketball, jerseys, bags, hot style ball equipment, etc. These ball games are of good quality and very professional, which is worth having for ball game lovers.
+# SuBiFenXianFeng
 
-Our app has made a very detailed classification of these ball sports equipment, which helps users to quickly find the ball sports equipment they want to buy.
+SuBiFenXianFeng is dedicated to promoting triathlon so that people can easily buy professional triathlon equipment and training books in their daily life, learn detailed triathlon walking tips, and easily record racing scores.
 
-Our APP gives a detailed and careful introduction of each product, so that you can fully understand these products, find your favorite ball sports goods, and make it convenient for you to purchase and place orders. At the same time, our app also has the function of commodity collection. Your favorite ball sports goods can be collected into the collection list for your next order.
+[Display] Our app displays a full range of triathlon sporting goods, including triathlon cycling equipment, triathlon running equipment, triathlon swimming equipment, triathlon training books and other triathlon sporting goods. These categories of complete products can meet the user's selection and procurement.
 
-Love sports, buy the ball quickly!
-If you have any questions, please contact us as follows:pqkw80335ukh@sina.com
+[Collection] Our app also has the function of commodity collection. Your favorite ironman triathlon equipment and training books can be collected into the collection list for your browsing and placing orders.
+
+[Strategy] There is also a triathlon strategy page in our app. We provide various skills and strategy analysis of triathlon, so that you can know more about triathlon, like the spirit of triathlon, and improve your sports skills.
+
+[Score] Our app also has the function of score recording, you can record the score and details of the game, record every triathlon you like, record your feelings at that time, record the record of the game at that time, and also share the record of the game.
+
+SuBiFenXianFengr lets you buy professional equipment, learn sports strategies, and record racing scores!
+
+If you have any questions, please contact us as follows:sf19860812@icloud.com
