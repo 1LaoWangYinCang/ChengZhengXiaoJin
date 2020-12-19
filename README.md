@@ -1,15 +1,11 @@
-# SuBiFenXianFeng
+# ChengZhengXiaoJin
 
-SuBiFenXianFeng is dedicated to promoting triathlon so that people can easily buy professional triathlon equipment and training books in their daily life, learn detailed triathlon walking tips, and easily record racing scores.
+ChengZhengXiaoJin is a record management tool to record account transactions between friends, so that people can easily and conveniently record iOU ious in life, record every sum of money at any time, so as to avoid forgetting over time. You can also mark important accounts. You can mark important accounts to remind yourself at any time.
 
-[Display] Our app displays a full range of triathlon sporting goods, including triathlon cycling equipment, triathlon running equipment, triathlon swimming equipment, triathlon training books and other triathlon sporting goods. These categories of complete products can meet the user's selection and procurement.
+Our APP has a professional interest calculation function, which can accurately calculate the amount of interest, professional and reliable, convenient to calculate interest, greatly facilitating life.
 
-[Collection] Our app also has the function of commodity collection. Your favorite ironman triathlon equipment and training books can be collected into the collection list for your browsing and placing orders.
+Our APP can also make appointments for iOU related lectures, learn the basic knowledge of sharing account transactions, understand the nature and norms of IOU transactions, and understand the professional knowledge of account transactions, so as to avoid financial losses and disputes.
 
-[Strategy] There is also a triathlon strategy page in our app. We provide various skills and strategy analysis of triathlon, so that you can know more about triathlon, like the spirit of triathlon, and improve your sports skills.
+Add account transactions, record human contact!
 
-[Score] Our app also has the function of score recording, you can record the score and details of the game, record every triathlon you like, record your feelings at that time, record the record of the game at that time, and also share the record of the game.
-
-SuBiFenXianFengr lets you buy professional equipment, learn sports strategies, and record racing scores!
-
-If you have any questions, please contact us as follows:sf19860812@icloud.com
+If you have any questions, please contact us as follows:aurora_ltdz@icloud.com
